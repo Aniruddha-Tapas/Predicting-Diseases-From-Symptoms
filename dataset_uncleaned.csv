@@ -1,0 +1,1868 @@
+Disease,Count of Disease Occurrence,Symptom
+UMLS:C0020538_hypertensive disease,3363,UMLS:C0008031_pain chest
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0012833_dizziness
+,,UMLS:C0004093_asthenia
+,,UMLS:C0085639_fall
+,,UMLS:C0039070_syncope
+,,UMLS:C0042571_vertigo
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0030252_palpitation
+,,UMLS:C0027497_nausea
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0438716_pressure chest
+UMLS:C0011847_diabetes,1421,UMLS:C0032617_polyuria
+,,UMLS:C0085602_polydypsia
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0008031_pain chest
+,,UMLS:C0004093_asthenia
+,,UMLS:C0027497_nausea
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0034642_rale
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0042571_vertigo
+,,UMLS:C0042963_vomiting
+,,UMLS:C0553668_labored breathing
+UMLS:C0011570_depression mental^UMLS:C0011581_depressive disorder,1337,UMLS:C0424000_feeling suicidal
+,,UMLS:C0438696_suicidal
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0424109_weepiness
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0424230_motor retardation
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0312422_blackout
+,,UMLS:C0344315_mood depressed
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0233481_worry
+,,UMLS:C0085631_agitation
+,,UMLS:C0040822_tremor
+,,UMLS:C0728899_intoxication
+,,UMLS:C0424068_verbal auditory hallucinations
+,,UMLS:C0455769_energy increased
+,,UMLS:C1299586_difficulty
+,,UMLS:C0028084_nightmare
+,,UMLS:C0235198_unable to concentrate
+,,UMLS:C0237154_homelessness
+UMLS:C0010054_coronary arteriosclerosis^UMLS:C0010068_coronary heart disease,1284,UMLS:C0008031_pain chest
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0438716_pressure chest
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0232292_chest tightness
+UMLS:C0032285_pneumonia,1029,UMLS:C0010200_cough
+,,UMLS:C0015967_fever
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0034642_rale
+,,UMLS:C0239134_productive cough
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0457096_yellow sputum
+,,UMLS:C0238844_breath sounds decreased
+,,UMLS:C0085593_chill
+,,UMLS:C0035508_rhonchus
+,,UMLS:C0457097_green sputum
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0043144_wheezing
+,,UMLS:C0019079_haemoptysis
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0231218_malaise
+,,UMLS:C0028081_night sweat
+UMLS:C0018802_failure heart congestive,963,UMLS:C0392680_shortness of breath
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0034642_rale
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0010200_cough
+,,UMLS:C0043144_wheezing
+UMLS:C0038454_accident cerebrovascular,885,UMLS:C0013362_dysarthria
+,,UMLS:C0004093_asthenia
+,,UMLS:C0234518_speech slurred
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0036572_seizure
+,,UMLS:C0028643_numbness
+UMLS:C0004096_asthma,835,UMLS:C0043144_wheezing
+,,UMLS:C0010200_cough
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0232292_chest tightness
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0239134_productive cough
+,,UMLS:C0436331_symptom aggravating factors
+,,UMLS:C0476273_distress respiratory
+UMLS:C0027051_myocardial infarction,759,UMLS:C0008031_pain chest
+,,UMLS:C0520886_st segment elevation
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0520887_st segment depression
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0438716_pressure chest
+,,UMLS:C0520888_t wave inverted
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0034642_rale
+,,UMLS:C0232292_chest tightness
+,,UMLS:C1305739_presence of q wave
+,,UMLS:C0030252_palpitation
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0235710_chest discomfort
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0039070_syncope
+UMLS:C0020443_hypercholesterolemia,685,UMLS:C0030193_pain
+,,UMLS:C0008031_pain chest
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0337672_nonsmoker
+,,UMLS:C0438716_pressure chest
+,,UMLS:C0039070_syncope
+,,UMLS:C0028643_numbness
+,,UMLS:C0235710_chest discomfort
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0520887_st segment depression
+,,UMLS:C0233481_worry
+,,UMLS:C0520888_t wave inverted
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0013404_dyspnea
+UMLS:C0021311_infection,630,UMLS:C0015967_fever
+,,UMLS:C0041834_erythema
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0019214_hepatosplenomegaly
+,,UMLS:C0085593_chill
+,,UMLS:C0033774_pruritus
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0549483_abscess bacterial
+,,UMLS:C0038999_swelling
+,,UMLS:C0030193_pain
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0010200_cough
+UMLS:C0042029_infection urinary tract,597,UMLS:C0015967_fever
+,,UMLS:C0013428_dysuria
+,,UMLS:C0018965_hematuria
+,,UMLS:C0235634_renal angle tenderness
+,,UMLS:C0023380_lethargy
+,,UMLS:C0004093_asthenia
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0241705_difficulty passing urine
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0239110_consciousness clear
+UMLS:C0002871_anemia,544,UMLS:C0085593_chill
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0746619_monoclonal
+,,UMLS:C0013491_ecchymosis
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0030232_pallor
+,,UMLS:C0004093_asthenia
+,,UMLS:C0015672_fatigue
+,,UMLS:C0744740_heme positive
+,,UMLS:C0004604_pain back
+,,UMLS:C0149746_orthostasis
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0012833_dizziness
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0030193_pain
+,,UMLS:C0035508_rhonchus
+,,UMLS:C0003862_arthralgia
+,,UMLS:C0038999_swelling
+,,UMLS:C1096646_transaminitis
+UMLS:C0024117_chronic obstructive airway disease,524,UMLS:C0392680_shortness of breath
+,,UMLS:C0043144_wheezing
+,,UMLS:C0010200_cough
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0241235_sputum purulent
+,,UMLS:C0700292_hypoxemia
+,,UMLS:C0020440_hypercapnia
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0232292_chest tightness
+UMLS:C0497327_dementia,504,UMLS:C0015967_fever
+,,UMLS:C0085639_fall
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0023380_lethargy
+,,UMLS:C0085631_agitation
+,,UMLS:C0013491_ecchymosis
+,,UMLS:C0039070_syncope
+,,UMLS:C0034642_rale
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0010200_cough
+,,UMLS:C0425251_bedridden^UMLS:C0741453_bedridden
+,,UMLS:C0030193_pain
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0035508_rhonchus
+,,UMLS:C1273573_unsteady gait
+,,UMLS:C0233762_hallucinations auditory
+UMLS:C1565489_insufficiency renal,445,UMLS:C0392680_shortness of breath
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0034642_rale
+,,UMLS:C0085606_urgency of micturition
+,,UMLS:C0003962_ascites
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0004093_asthenia
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0013404_dyspnea
+,,UMLS:C1299586_difficulty
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0020649_hypotension
+,,UMLS:C0238844_breath sounds decreased
+,,UMLS:C0038999_swelling
+,,UMLS:C0086439_hypokinesia
+UMLS:C0009676_confusion,408,UMLS:C0036572_seizure
+,,UMLS:C0014394_enuresis
+,,UMLS:C0023380_lethargy
+,,UMLS:C0234518_speech slurred
+,,UMLS:C0085639_fall
+,,UMLS:C0239110_consciousness clear
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0232766_asterixis
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0085631_agitation
+,,UMLS:C0231530_muscle twitch
+,,UMLS:C0004093_asthenia
+,,UMLS:C0234450_sleepy
+,,UMLS:C0012833_dizziness
+,,UMLS:C0018681_headache
+,,UMLS:C0013362_dysarthria
+,,UMLS:C0220870_lightheadedness
+,,UMLS:C0040822_tremor
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0241526_unresponsiveness
+UMLS:C0029408_degenerative polyarthritis,405,UMLS:C0030193_pain
+,,UMLS:C0149696_food intolerance
+,,UMLS:C0239832_numbness of hand
+,,UMLS:C0858924_general discomfort
+,,UMLS:C0013144_drowsiness
+,,UMLS:C0004093_asthenia
+,,UMLS:C0337672_nonsmoker
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0085602_polydypsia
+,,UMLS:C0427008_stiffness
+,,UMLS:C1273573_unsteady gait
+UMLS:C0020676_hypothyroidism,398,UMLS:C0392680_shortness of breath
+,,UMLS:C0242453_prostatism
+,,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0085639_fall
+,,UMLS:C1273573_unsteady gait
+,,UMLS:C0032617_polyuria
+,,UMLS:C0020649_hypotension
+,,UMLS:C1299586_difficulty
+,,UMLS:C0039070_syncope
+,,UMLS:C0028084_nightmare
+,,UMLS:C0234518_speech slurred
+,,UMLS:C0043094_weight gain
+,,UMLS:C0004093_asthenia
+,,UMLS:C0015672_fatigue^UMLS:C0557875_tired
+,,UMLS:C0085631_agitation
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0424230_motor retardation
+,,UMLS:C0042963_vomiting
+,,UMLS:C0028643_numbness
+,,UMLS:C0577559_mass of body structure
+UMLS:C0700613_anxiety state,390,UMLS:C0233481_worry
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0438696_suicidal
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0040822_tremor
+,,UMLS:C0312422_blackout
+,,UMLS:C0424109_weepiness
+,,UMLS:C0557075_has religious belief
+,,UMLS:C0027769_nervousness
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0016579_formication
+,,UMLS:C1299586_difficulty
+,,UMLS:C0008031_pain chest
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0085631_agitation
+,,UMLS:C0030252_palpitation
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0344315_mood depressed
+,,UMLS:C0600142_hot flush
+,,UMLS:C0030193_pain
+,,UMLS:C0239110_consciousness clear
+,,UMLS:C0028084_nightmare
+UMLS:C0006826_malignant neoplasms^UMLS:C1306459_primary malignant neoplasm,354,UMLS:C0030193_pain
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0221198_lesion
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0743482_emphysematous change
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0003962_ascites
+,,UMLS:C0019825_hoarseness
+,,UMLS:C0205400_thicken
+,,UMLS:C0018965_hematuria
+UMLS:C0001175_acquired immuno-deficiency syndrome^UMLS:C0019682_HIV^UMLS:C0019693_hiv infections,350,UMLS:C0015967_fever
+,,UMLS:C0028081_night sweat
+,,UMLS:C0233308_spontaneous rupture of membranes
+,,UMLS:C0010200_cough
+,,UMLS:C0032739_
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0085593_chill
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0239134_productive cough
+,,UMLS:C0026827_muscle hypotonia^UMLS:C0241938_hypotonic
+,,UMLS:C0424000_feeling suicidal
+UMLS:C0007642_cellulitis,341,UMLS:C0041834_erythema
+,,UMLS:C0030193_pain
+,,UMLS:C0038999_swelling
+,,UMLS:C0332575_redness
+,,UMLS:C0015967_fever
+,,UMLS:C0549483_abscess bacterial
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0020580_hypesthesia
+,,UMLS:C0034880_hyperacusis
+,,UMLS:C0033774_pruritus
+,,UMLS:C0008031_pain chest
+,,UMLS:C1384489_scratch marks
+,,UMLS:C0085593_chill
+,,UMLS:C0234233_sore to touch
+UMLS:C0017168_gastroesophageal reflux disease,325,UMLS:C0030193_pain
+,,UMLS:C0008031_pain chest
+,,UMLS:C0085624_burning sensation
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0239233_satiety early
+,,UMLS:C1444773_throbbing sensation quality
+,,UMLS:C0232292_chest tightness
+,,UMLS:C0234215_sensory discomfort
+,,UMLS:C1305739_presence of q wave
+,,UMLS:C0027497_nausea
+,,UMLS:C0858924_general discomfort
+,,UMLS:C0009806_constipation
+,,UMLS:C0030252_palpitation
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0018834_heartburn
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0004093_asthenia
+UMLS:C0036690_septicemia^UMLS:C0243026_systemic infection^UMLS:C1090821_sepsis (invertebrate),311,UMLS:C0015967_fever
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0020649_hypotension
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0085593_chill
+,,UMLS:C0023380_lethargy
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0006157_breech presentation
+,,UMLS:C0010520_cyanosis
+,,UMLS:C0233308_spontaneous rupture of membranes
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0034642_rale
+,,UMLS:C0277797_apyrexial
+UMLS:C0149871_deep vein thrombosis,310,UMLS:C0038999_swelling
+,,UMLS:C0030193_pain
+,,UMLS:C0013491_ecchymosis
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0023222_pain in lower limb
+,,UMLS:C0018800_cardiomegaly
+,,UMLS:C0034642_rale
+,,UMLS:C0041834_erythema
+,,UMLS:C0020649_hypotension
+,,UMLS:C0009024_clonus
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0332575_redness
+UMLS:C0011175_dehydration,297,UMLS:C0015967_fever
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0042963_vomiting
+,,UMLS:C0020649_hypotension
+,,UMLS:C0027497_nausea
+,,UMLS:C0220870_lightheadedness
+,,UMLS:C0857256_unwell
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0003123_anorexia
+,,UMLS:C0004093_asthenia
+,,UMLS:C0234215_sensory discomfort
+,,UMLS:C0039070_syncope
+,,UMLS:C0023380_lethargy
+,,UMLS:C0012833_dizziness
+,,UMLS:C0039070_syncope^UMLS:C0312422_blackout^UMLS:C0424533_history of - blackout
+UMLS:C0027651_neoplasm,297,UMLS:C0577559_mass of body structure
+,,UMLS:C0221198_lesion
+,,UMLS:C0008031_pain chest
+,,UMLS:C0018965_hematuria
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C0030193_pain
+,,UMLS:C0003126_anosmia
+,,UMLS:C0205400_thicken
+,,UMLS:C1513183_metastatic lesion
+,,UMLS:C0149696_food intolerance
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0028081_night sweat
+,,UMLS:C0271202_hemianopsia homonymous
+,,UMLS:C0239233_satiety early
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0018681_headache
+UMLS:C0034065_embolism pulmonary,294,UMLS:C0392680_shortness of breath
+,,UMLS:C0700292_hypoxemia
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0744727_hematocrit decreased
+,,UMLS:C0008031_pain chest
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0151315_neck stiffness
+,,UMLS:C0457096_yellow sputum
+,,UMLS:C0239134_productive cough
+,,UMLS:C0008767_cicatrisation
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0043144_wheezing
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0850149_non-productive cough
+UMLS:C0014544_epilepsy,290,UMLS:C0036572_seizure
+,,UMLS:C0347938_hypometabolism
+,,UMLS:C0236018_aura
+,,UMLS:C0231530_muscle twitch
+,,UMLS:C0013144_drowsiness
+,,UMLS:C0040822_tremor
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0027066_myoclonus
+,,UMLS:C0232517_gurgle
+,,UMLS:C0234450_sleepy
+,,UMLS:C0023380_lethargy
+,,UMLS:C0558195_wheelchair bound
+UMLS:C0878544_cardiomyopathy,283,UMLS:C0392680_shortness of breath
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0030252_palpitation
+,,UMLS:C0008031_pain chest
+,,UMLS:C0039070_syncope
+,,UMLS:C0457096_yellow sputum
+,,UMLS:C0034642_rale
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0238705_left atrial hypertrophy
+,,UMLS:C0015672_fatigue
+,,UMLS:C0043094_weight gain
+,,UMLS:C0376405_patient non compliance
+UMLS:C0022661_chronic kidney failure,280,UMLS:C0042963_vomiting
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0028961_oliguria
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0027497_nausea
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0004093_asthenia
+,,UMLS:C0232292_chest tightness
+,,UMLS:C0231218_malaise
+,,UMLS:C0085593_chill
+,,UMLS:C0034642_rale
+,,UMLS:C0015967_fever
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0038999_swelling
+,,UMLS:C0007398_catatonia
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0457096_yellow sputum
+UMLS:C0007097_carcinoma,269,UMLS:C0577559_mass of body structure
+,,UMLS:C0030193_pain
+,,UMLS:C0221198_lesion
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C0205400_thicken
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0019825_hoarseness
+,,UMLS:C0858924_general discomfort
+,,UMLS:C1513183_metastatic lesion
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0009806_constipation
+,,UMLS:C0847488_unhappy
+,,UMLS:C0030554_paresthesia
+,,UMLS:C0232995_gravida 0
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0018834_heartburn
+,,UMLS:C0027497_nausea
+,,UMLS:C0034079_lung nodule
+UMLS:C0019196_hepatitis C,269,UMLS:C0003962_ascites
+,,UMLS:C0000731_distended abdomen
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0010200_cough
+,,UMLS:C0234238_ache
+,,UMLS:C0558143_macerated skin
+,,UMLS:C0581912_heavy feeling
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0085593_chill
+,,UMLS:C0232766_asterixis
+,,UMLS:C0376405_patient non compliance
+UMLS:C0085096_peripheral vascular disease,268,UMLS:C0392680_shortness of breath
+,,UMLS:C0234253_rest pain
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0232201_sinus rhythm
+,,UMLS:C0553668_labored breathing
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0003123_anorexia
+,,UMLS:C0234450_sleepy
+UMLS:C0033975_psychotic disorder,267,UMLS:C0438696_suicidal
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0424230_motor retardation
+,,UMLS:C0312422_blackout
+,,UMLS:C0424068_verbal auditory hallucinations
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0085631_agitation
+,,UMLS:C0040822_tremor
+,,UMLS:C0007398_catatonia
+,,UMLS:C0424109_weepiness
+,,UMLS:C0237154_homelessness
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0424092_withdraw
+,,UMLS:C0455769_energy increased
+,,UMLS:C0728899_intoxication
+,,UMLS:C0233481_worry
+,,UMLS:C0424295_behavior hyperactive
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0344315_mood depressed
+,,UMLS:C0558261_terrify
+,,UMLS:C0028084_nightmare
+,,UMLS:C0239110_consciousness clear
+UMLS:C0020473_hyperlipidemia,247,UMLS:C0008031_pain chest
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0030252_palpitation
+,,UMLS:C1305739_presence of q wave
+,,UMLS:C0085635_photopsia
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0235710_chest discomfort
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0392701_giddy mood
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0012833_dizziness
+UMLS:C0005586_bipolar disorder,241,UMLS:C0424000_feeling suicidal
+,,UMLS:C0455769_energy increased
+,,UMLS:C0438696_suicidal
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0085631_agitation
+,,UMLS:C0557075_has religious belief
+,,UMLS:C0578859_disturbed family
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0424068_verbal auditory hallucinations
+,,UMLS:C0424109_weepiness
+,,UMLS:C0424295_behavior hyperactive
+,,UMLS:C0007398_catatonia
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0233481_worry
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0917799_hypersomnia
+,,UMLS:C1299586_difficulty
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0020458_hyperhidrosis disorder
+,,UMLS:C0026961_mydriasis
+,,UMLS:C0234133_extrapyramidal sign
+,,UMLS:C0240233_loose associations
+,,UMLS:C0728899_intoxication
+,,UMLS:C0424230_motor retardation
+,,UMLS:C0237154_homelessness
+,,UMLS:C0312422_blackout
+,,UMLS:C0040822_tremor
+,,UMLS:C0392674_exhaustion
+UMLS:C0028754_obesity,228,UMLS:C0030193_pain
+,,UMLS:C0007398_catatonia
+,,UMLS:C0037384_snore
+,,UMLS:C0008031_pain chest
+,,UMLS:C0429091_r wave feature
+,,UMLS:C0557075_has religious belief
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0015672_fatigue^UMLS:C0557875_tired
+,,UMLS:C0497406_overweight
+,,UMLS:C0232257_systolic murmur
+,,UMLS:C0344315_mood depressed
+,,UMLS:C0013491_ecchymosis
+UMLS:C0022116_ischemia,226,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0008031_pain chest
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0438716_pressure chest
+,,UMLS:C0235710_chest discomfort
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0232201_sinus rhythm
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0034642_rale
+,,UMLS:C0231221_asymptomatic
+,,UMLS:C0003123_anorexia
+UMLS:C1623038_cirrhosis,218,UMLS:C0003962_ascites
+,,UMLS:C0085639_fall
+,,UMLS:C0038002_splenomegaly
+,,UMLS:C0033774_pruritus
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C0000731_distended abdomen
+,,UMLS:C0221198_lesion
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0151706_bleeding of vagina
+UMLS:C0015230_exanthema,208,UMLS:C0015967_fever
+,,UMLS:C0033774_pruritus
+,,UMLS:C0332573_macule
+,,UMLS:C0221198_lesion
+,,UMLS:C0332575_redness
+,,UMLS:C0018681_headache
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0003862_arthralgia
+,,UMLS:C0038999_swelling
+,,UMLS:C0041834_erythema
+,,UMLS:C0085636_photophobia
+,,UMLS:C0085593_chill
+,,UMLS:C1384489_scratch marks
+,,UMLS:C0030193_pain
+,,UMLS:C0221150_painful swallowing
+UMLS:C0005001_benign prostatic hypertrophy,192,UMLS:C0856054_mental status changes
+,,UMLS:C0006625_cachexia
+,,UMLS:C0312422_blackout
+,,UMLS:C0149746_orthostasis
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0028081_night sweat
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0003123_anorexia
+,,UMLS:C0013362_dysarthria
+UMLS:C0022660_kidney failure acute,186,UMLS:C0020461_hyperkalemia
+,,UMLS:C0020649_hypotension
+,,UMLS:C0020598_hypocalcemia result
+,,UMLS:C0028961_oliguria
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0004093_asthenia
+,,"UMLS:C0020672_hypothermia, natural"
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0241526_unresponsiveness
+UMLS:C0026266_mitral valve insufficiency,186,UMLS:C0392680_shortness of breath
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0231221_asymptomatic
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0039070_syncope
+,,UMLS:C0205400_thicken
+,,UMLS:C0238705_left atrial hypertrophy
+,,UMLS:C0030252_palpitation
+,,UMLS:C0015672_fatigue
+,,UMLS:C0042963_vomiting
+,,UMLS:C0030193_pain
+,,UMLS:C0018800_cardiomegaly
+,,UMLS:C0235710_chest discomfort
+UMLS:C0003864_arthritis,179,UMLS:C0030193_pain
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0004093_asthenia
+,,UMLS:C0039070_syncope
+,,UMLS:C0038999_swelling
+,,UMLS:C0741302_atypia
+,,UMLS:C0427108_general unsteadiness
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0000731_distended abdomen
+UMLS:C0006277_bronchitis,172,UMLS:C0010200_cough
+,,UMLS:C0043144_wheezing
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0232292_chest tightness
+,,UMLS:C0015967_fever
+,,UMLS:C0242429_throat sore
+,,UMLS:C0239134_productive cough
+,,UMLS:C0019214_hepatosplenomegaly
+,,UMLS:C0028081_night sweat
+,,UMLS:C0019079_haemoptysis
+,,UMLS:C0553668_labored breathing
+,,UMLS:C1260880_snuffle
+,,UMLS:C0239133_hacking cough
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0085593_chill
+,,UMLS:C0038450_stridor
+,,UMLS:C0043096_decreased body weight
+UMLS:C0018989_hemiparesis,171,UMLS:C0013362_dysarthria
+,,UMLS:C0030552_paresis
+,,UMLS:C0004093_asthenia
+,,UMLS:C0221470_aphagia
+,,UMLS:C0036572_seizure
+,,UMLS:C0234518_speech slurred
+,,UMLS:C0751495_focal seizures
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0423571_abnormal sensation
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0085628_stupor
+,,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0231890_fremitus
+,,UMLS:C0271276_Stahli's line
+,,UMLS:C0677500_stinging sensation
+,,UMLS:C0522224_paralyse
+,,UMLS:C0009024_clonus
+,,UMLS:C0427055_facial paresis
+UMLS:C0029456_osteoporosis,169,UMLS:C0242453_prostatism
+,,UMLS:C0085639_fall
+,,UMLS:C0019572_hirsutism
+,,UMLS:C0558361_sniffle
+,,UMLS:C0000731_distended abdomen
+,,UMLS:C0042571_vertigo
+,,UMLS:C0239832_numbness of hand
+,,UMLS:C0233565_bradykinesia
+,,UMLS:C0030193_pain
+,,UMLS:C0039070_syncope
+,,UMLS:C0848168_out of breath
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0150045_urge incontinence
+,,UMLS:C0220870_lightheadedness
+UMLS:C0007787_transient ischemic attack,168,UMLS:C0234518_speech slurred
+,,UMLS:C0013362_dysarthria
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0004093_asthenia
+,,UMLS:C0151315_neck stiffness
+,,UMLS:C0042571_vertigo
+,,UMLS:C0028643_numbness
+,,UMLS:C0220870_lightheadedness
+,,UMLS:C0234133_extrapyramidal sign
+,,UMLS:C0271276_Stahli's line
+,,UMLS:C0344232_vision blurred
+,,UMLS:C0018681_headache
+,,UMLS:C0848277_room spinning
+,,UMLS:C0039070_syncope
+,,UMLS:C1299586_difficulty
+,,UMLS:C0423982_rambling speech
+,,UMLS:C0233844_clumsiness
+UMLS:C0001418_adenocarcinoma,166,UMLS:C0577559_mass of body structure
+,,UMLS:C0221198_lesion
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0009806_constipation
+,,UMLS:C0231890_fremitus
+,,UMLS:C0278014_decreased stool caliber
+,,UMLS:C0239233_satiety early
+,,UMLS:C0018932_hematochezia
+,,UMLS:C0231872_egophony
+,,UMLS:C0030193_pain
+,,UMLS:C0008767_cicatrisation^UMLS:C0241158_scar tissue
+,,UMLS:C0000737_pain abdominal
+UMLS:C1456784_paranoia,165,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0085631_agitation
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0424068_verbal auditory hallucinations
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0438696_suicidal
+,,UMLS:C0558261_terrify
+,,UMLS:C0233647_neologism
+,,UMLS:C0237154_homelessness
+,,UMLS:C0455769_energy increased
+,,UMLS:C0344315_mood depressed
+,,UMLS:C0231187_decompensation
+,,UMLS:C0008767_cicatrisation^UMLS:C0241158_scar tissue
+,,UMLS:C0312422_blackout
+,,UMLS:C0240233_loose associations
+UMLS:C0030305_pancreatitis,165,UMLS:C0042963_vomiting
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0027497_nausea
+,,UMLS:C0030193_pain
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0241252_stool color yellow
+,,UMLS:C0424790_rigor - temperature-associated observation
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0234233_sore to touch
+UMLS:C0021167_incontinence,165,UMLS:C0221166_paraparesis
+,,UMLS:C0036572_seizure
+,,UMLS:C0004093_asthenia
+,,UMLS:C0150045_urge incontinence
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0236018_aura
+,,UMLS:C0554980_moody
+,,UMLS:C0877040_fear of falling
+,,UMLS:C0040822_tremor
+,,UMLS:C0037763_spasm
+,,UMLS:C0847488_unhappy
+,,UMLS:C0039070_syncope
+,,UMLS:C0085639_fall
+,,UMLS:C0427008_stiffness
+,,UMLS:C0241526_unresponsiveness
+UMLS:C0013405_paroxysmal dyspnea,165,UMLS:C0085619_orthopnea
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0034642_rale
+,,UMLS:C0008031_pain chest
+,,UMLS:C0030252_palpitation
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0043094_weight gain
+,,UMLS:C0010200_cough
+,,UMLS:C0013404_dyspnea
+UMLS:C0019270_hernia,164,UMLS:C0000737_pain abdominal
+,,UMLS:C0030193_pain
+,,UMLS:C0020578_hyperventilation
+,,UMLS:C0278141_excruciating pain
+,,UMLS:C0016927_gag
+,,UMLS:C0027497_nausea
+,,UMLS:C0872410_posturing
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0149696_food intolerance
+,,UMLS:C0277899_pulse absent
+,,UMLS:C0004093_asthenia
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0205400_thicken
+UMLS:C0376358_malignant neoplasm of prostate^UMLS:C0600139_carcinoma prostate,163,UMLS:C0018965_hematuria
+,,UMLS:C0392699_dysesthesia
+,,UMLS:C0004093_asthenia
+,,UMLS:C0521516_polymyalgia
+,,UMLS:C0848621_passed stones
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0034642_rale
+,,UMLS:C0238844_breath sounds decreased
+,,UMLS:C0150045_urge incontinence
+,,UMLS:C0013428_dysuria
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0042571_vertigo
+,,UMLS:C0151878_qt interval prolonged
+,,UMLS:C0004134_ataxia
+,,UMLS:C0030552_paresis
+,,UMLS:C0271202_hemianopsia homonymous
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0035508_rhonchus
+,,UMLS:C0149746_orthostasis
+,,UMLS:C0043096_decreased body weight
+UMLS:C0034063_edema pulmonary,161,UMLS:C0085606_urgency of micturition
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0034642_rale
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0018862_Heberden's node
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0235710_chest discomfort
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0232201_sinus rhythm
+,,UMLS:C0008031_pain chest
+,,UMLS:C0020649_hypotension
+,,UMLS:C0043144_wheezing
+UMLS:C0024228_lymphatic diseases,160,UMLS:C0030193_pain
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0028081_night sweat
+,,UMLS:C0038002_splenomegaly
+,,UMLS:C0221198_lesion
+,,UMLS:C0085593_chill
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0038999_swelling
+,,UMLS:C0015967_fever
+,,UMLS:C0034880_hyperacusis
+,,UMLS:C0231890_fremitus
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0231872_egophony
+,,UMLS:C0332575_redness
+,,UMLS:C0019209_hepatomegaly
+,,UMLS:C0015672_fatigue
+UMLS:C0003507_stenosis aortic valve,158,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0039070_syncope
+,,UMLS:C0235710_chest discomfort
+,,UMLS:C0232257_systolic murmur
+,,UMLS:C0036396_sciatica
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0008031_pain chest
+,,UMLS:C0577979_frothy sputum
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0030193_pain
+UMLS:C0006142_malignant neoplasm of breast^UMLS:C0678222_carcinoma breast,152,UMLS:C0024103_mass in breast
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0030554_paresthesia
+,,UMLS:C0277845_retropulsion
+,,UMLS:C0041834_erythema
+,,UMLS:C1299586_difficulty
+,,UMLS:C0221198_lesion
+,,UMLS:C0239301_estrogen use
+,,UMLS:C0085624_burning sensation
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0038999_swelling
+,,UMLS:C0016579_formication
+UMLS:C0036341_schizophrenia,147,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0751229_hypersomnolence
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0424068_verbal auditory hallucinations
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0085631_agitation
+,,UMLS:C0438696_suicidal
+,,UMLS:C0233481_worry
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0041667_underweight^UMLS:C1319518_underweight
+,,UMLS:C0237154_homelessness
+UMLS:C0012813_diverticulitis,145,UMLS:C0000737_pain abdominal
+,,UMLS:C0549483_abscess bacterial
+,,UMLS:C0541911_dullness
+,,UMLS:C0857199_red blotches
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0013428_dysuria
+,,UMLS:C0030193_pain
+,,UMLS:C0042963_vomiting
+,,UMLS:C0232201_sinus rhythm
+,,UMLS:C0232488_colic abdominal
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0015967_fever
+,,UMLS:C1273573_unsteady gait
+,,UMLS:C0205400_thicken
+,,UMLS:C0085606_urgency of micturition
+,,UMLS:C0003123_anorexia
+,,UMLS:C0746619_monoclonal
+,,UMLS:C0009806_constipation
+UMLS:C0546817_overload fluid,144,UMLS:C0034642_rale
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0043094_weight gain
+,,UMLS:C0020621_hypokalemia
+,,UMLS:C0020649_hypotension
+,,UMLS:C0038999_swelling
+,,UMLS:C0000731_distended abdomen
+UMLS:C0030920_ulcer peptic,143,UMLS:C0000737_pain abdominal
+,,UMLS:C0221166_paraparesis
+,,UMLS:C0027497_nausea
+,,UMLS:C0042963_vomiting
+,,UMLS:C0521516_polymyalgia
+,,UMLS:C0848168_out of breath
+,,UMLS:C0008031_pain chest
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0232517_gurgle
+,,UMLS:C0020175_hunger
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0027769_nervousness
+UMLS:C0029443_osteomyelitis,142,UMLS:C0030193_pain
+,,UMLS:C0332575_redness
+,,UMLS:C0240813_prostate tender
+,,UMLS:C0015967_fever
+,,UMLS:C0241705_difficulty passing urine
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0038999_swelling
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0041834_erythema
+,,UMLS:C0549483_abscess bacterial
+,,UMLS:C0016512_pain foot
+,,UMLS:C0152032_urinary hesitation
+UMLS:C0017152_gastritis,140,UMLS:C0744740_heme positive
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0042963_vomiting
+,,UMLS:C0281825_disequilibrium
+,,UMLS:C0027497_nausea
+,,UMLS:C0728899_intoxication
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0030193_pain
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0012833_dizziness
+UMLS:C0004610_bacteremia,142,UMLS:C0015967_fever
+,,UMLS:C0085593_chill
+,,UMLS:C0016382_flushing
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0085632_indifferent mood
+,,UMLS:C1313921_urinoma
+,,UMLS:C0042963_vomiting
+,,UMLS:C0000731_distended abdomen
+,,UMLS:C0239981_hypoalbuminemia
+,,UMLS:C0241157_pustule
+,,UMLS:C0242453_prostatism
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0030232_pallor
+UMLS:C0035078_failure kidney,140,UMLS:C0085619_orthopnea
+,,UMLS:C0028961_oliguria
+,,UMLS:C0232854_slowing of urinary stream
+,,UMLS:C0277794_extreme exhaustion
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0020649_hypotension
+,,UMLS:C0014394_enuresis
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0242453_prostatism
+,,UMLS:C0442739_no status change
+,,UMLS:C0425251_bedridden^UMLS:C0741453_bedridden
+,,UMLS:C0015672_fatigue
+UMLS:C0002895_sickle cell anemia,140,UMLS:C1135120_breakthrough pain
+,,UMLS:C0004604_pain back
+,,UMLS:C0030193_pain
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C1260880_snuffle
+,,UMLS:C0008031_pain chest
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0019214_hepatosplenomegaly
+,,UMLS:C0457097_green sputum
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0018681_headache
+UMLS:C0018801_failure heart,138,UMLS:C0085619_orthopnea
+,,UMLS:C0015672_fatigue
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0232258_pansystolic murmur
+,,UMLS:C0240100_jugular venous distention
+,,UMLS:C0694547_systolic ejection murmur
+,,UMLS:C0020649_hypotension
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0086439_hypokinesia
+UMLS:C0041912_upper respiratory infection,135,UMLS:C0010200_cough
+,,UMLS:C0242429_throat sore
+,,UMLS:C0043144_wheezing
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0553668_labored breathing
+,,UMLS:C0015967_fever
+,,UMLS:C0848340_stuffy nose
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C1260880_snuffle
+,,UMLS:C0085632_indifferent mood
+,,UMLS:C0231872_egophony
+,,UMLS:C0234866_barking cough
+,,UMLS:C0521516_polymyalgia
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C0028081_night sweat
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0239134_productive cough
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0035508_rhonchus
+,,UMLS:C0425488_rapid shallow breathing
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0237304_noisy respiration
+,,UMLS:C0264273_nasal discharge present
+,,UMLS:C0743482_emphysematous change
+,,UMLS:C0871754_frail
+,,UMLS:C1511606_cystic lesion
+,,UMLS:C0436331_symptom aggravating factors
+,,UMLS:C0578150_hemodynamically stable
+UMLS:C0019158_hepatitis,133,UMLS:C0003962_ascites
+,,UMLS:C0233308_spontaneous rupture of membranes
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0033774_pruritus
+,,UMLS:C0003123_anorexia
+,,UMLS:C1096646_transaminitis
+,,UMLS:C0221151_projectile vomiting
+,,UMLS:C0085593_chill
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0015967_fever
+,,UMLS:C0042963_vomiting
+UMLS:C0020542_hypertension pulmonary,128,UMLS:C0392680_shortness of breath
+,,UMLS:C0271276_Stahli's line
+,,UMLS:C0581911_heavy legs
+,,UMLS:C0238844_breath sounds decreased
+,,UMLS:C0151315_neck stiffness
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0010520_cyanosis
+,,UMLS:C0020649_hypotension
+,,UMLS:C0238705_left atrial hypertrophy
+UMLS:C0011168_deglutition disorder,126,UMLS:C0030554_paresthesia
+,,UMLS:C0231690_titubation
+,,UMLS:C0013362_dysarthria
+,,UMLS:C0221150_painful swallowing
+,,UMLS:C0019825_hoarseness
+,,UMLS:C0038450_stridor
+,,UMLS:C0037763_spasm
+,,UMLS:C0004093_asthenia
+,,UMLS:C0234979_dysdiadochokinesia
+,,UMLS:C0004134_ataxia
+,,UMLS:C1321756_achalasia
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0427008_stiffness
+,,UMLS:C0221198_lesion
+,,UMLS:C0748706_side pain
+UMLS:C0018099_gout,124,UMLS:C0600142_hot flush
+,,UMLS:C0030193_pain
+,,UMLS:C0332575_redness
+,,UMLS:C0038999_swelling
+,,UMLS:C0041834_erythema
+,,UMLS:C0743482_emphysematous change
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0003962_ascites
+,,UMLS:C0376405_patient non compliance
+UMLS:C0040034_thrombocytopaenia,123,UMLS:C0013491_ecchymosis
+,,UMLS:C0085702_monocytosis
+,,UMLS:C0032781_posterior rhinorrhea
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0015967_fever
+,,UMLS:C0033774_pruritus
+,,UMLS:C0020649_hypotension
+,,UMLS:C0015672_fatigue
+UMLS:C0020615_hypoglycemia,122,UMLS:C0241526_unresponsiveness
+,,"UMLS:C0020672_hypothermia, natural"
+,,UMLS:C0542044_incoherent
+,,UMLS:C0151878_qt interval prolonged
+,,UMLS:C0311395_lameness^UMLS:C1456822_claudication
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0392162_clammy skin
+,,UMLS:C0032617_polyuria
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0020649_hypotension
+UMLS:C0032290_pneumonia aspiration,119,UMLS:C0264576_mediastinal shift
+,,UMLS:C0015967_fever
+,,UMLS:C0009024_clonus
+,,UMLS:C0856054_mental status changes
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0277794_extreme exhaustion
+,,UMLS:C0085628_stupor
+,,UMLS:C0036572_seizure
+,,UMLS:C1096646_transaminitis
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0010200_cough
+,,UMLS:C0232517_gurgle
+,,UMLS:C0030193_pain
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0000737_pain abdominal
+UMLS:C0009319_colitis,114,UMLS:C0015967_fever
+,,UMLS:C0205400_thicken
+,,UMLS:C0457097_green sputum
+,,UMLS:C0042963_vomiting
+,,UMLS:C0027498_nausea and vomiting
+,,UMLS:C0541798_awakening early
+,,UMLS:C0030193_pain
+,,UMLS:C0027497_nausea
+,,UMLS:C0085593_chill
+,,UMLS:C0232726_tenesmus
+,,UMLS:C0150045_urge incontinence
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0578150_hemodynamically stable
+UMLS:C1510475_diverticulosis,114,UMLS:C1167754_fecaluria
+,,UMLS:C0009806_constipation
+,,UMLS:C0549483_abscess bacterial
+,,UMLS:C0744740_heme positive
+,,UMLS:C0220870_lightheadedness
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0030193_pain
+,,UMLS:C0221151_projectile vomiting
+,,UMLS:C0232894_pneumatouria
+,,UMLS:C1511606_cystic lesion
+,,UMLS:C0003123_anorexia
+,,UMLS:C0027497_nausea
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0150041_feeling hopeless
+UMLS:C0038663_suicide attempt,114,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0438696_suicidal
+,,UMLS:C0424230_motor retardation
+,,UMLS:C0424109_weepiness
+,,UMLS:C0235198_unable to concentrate
+,,UMLS:C0234544_todd paralysis
+,,UMLS:C0233481_worry
+,,UMLS:C0015672_fatigue
+,,UMLS:C0040822_tremor
+,,UMLS:C0740880_alcoholic withdrawal symptoms
+,,UMLS:C0085631_agitation
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0312422_blackout
+,,UMLS:C0424092_withdraw
+,,UMLS:C1299586_difficulty
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0234215_sensory discomfort
+,,UMLS:C0013144_drowsiness
+,,UMLS:C0016579_formication
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0015967_fever
+,,UMLS:C0010200_cough
+UMLS:C0032305_Pneumocystis carinii pneumonia,113,UMLS:C0457096_yellow sputum
+,,UMLS:C0006625_cachexia
+,,UMLS:C0085593_chill
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0239134_productive cough
+,,UMLS:C0231528_myalgia
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0151315_neck stiffness
+,,UMLS:C0239133_hacking cough
+,,UMLS:C1384606_dyspareunia
+,,UMLS:C0020621_hypokalemia
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0149758_poor dentition
+,,UMLS:C1096646_transaminitis
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0018681_headache
+,,UMLS:C0857516_floppy
+,,UMLS:C0233308_spontaneous rupture of membranes
+UMLS:C0019163_hepatitis B,111,UMLS:C0233467_inappropriate affect
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0457096_yellow sputum
+,,UMLS:C0221151_projectile vomiting
+,,UMLS:C0576456_poor feeding
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0558195_wheelchair bound
+,,UMLS:C0859032_moan
+UMLS:C0030567_parkinson disease,108,UMLS:C1321756_achalasia
+,,UMLS:C0085639_fall
+,,UMLS:C0427008_stiffness
+,,UMLS:C0424092_withdraw
+,,UMLS:C0085631_agitation
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C1299586_difficulty
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0039070_syncope
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0149746_orthostasis
+,,UMLS:C0233481_worry
+,,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0018965_hematuria
+,,UMLS:C0040822_tremor
+,,UMLS:C0028081_night sweat
+,,UMLS:C0577559_mass of body structure
+UMLS:C0024299_lymphoma,105,UMLS:C0221198_lesion
+,,UMLS:C0015967_fever
+,,UMLS:C0221232_welt
+,,UMLS:C1096646_transaminitis
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0004134_ataxia
+,,UMLS:C0040264_tinnitus
+,,UMLS:C0020303_hydropneumothorax
+,,UMLS:C0429562_superimposition
+,,UMLS:C0019079_haemoptysis
+,,UMLS:C0015672_fatigue^UMLS:C0557875_tired
+,,UMLS:C0085602_polydypsia
+,,UMLS:C0241705_difficulty passing urine
+UMLS:C0020456_hyperglycemia,104,UMLS:C0234233_sore to touch
+,,UMLS:C0033774_pruritus
+,,UMLS:C0235129_feeling strange
+,,UMLS:C0241157_pustule
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0344315_mood depressed
+,,UMLS:C0239301_estrogen use
+,,UMLS:C0043144_wheezing
+,,UMLS:C0003962_ascites
+,,UMLS:C0036572_seizure
+UMLS:C0085584_encephalopathy,103,UMLS:C0242143_uncoordination
+,,UMLS:C0232766_asterixis
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0424530_absences finding
+,,UMLS:C0872410_posturing
+,,UMLS:C0236018_aura
+,,UMLS:C0270844_tonic seizures
+,,UMLS:C0742985_debilitation
+,,UMLS:C0239110_consciousness clear
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0205400_thicken
+,,UMLS:C0086439_hypokinesia
+UMLS:C0040961_tricuspid valve insufficiency,101,UMLS:C0392680_shortness of breath
+,,UMLS:C0030193_pain
+,,UMLS:C0042963_vomiting
+,,UMLS:C0027497_nausea
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0015967_fever
+,,UMLS:C0008767_cicatrisation
+,,UMLS:C0264576_mediastinal shift
+,,UMLS:C0338656_impaired cognition
+UMLS:C0002395_Alzheimer's disease,101,UMLS:C0013132_drool
+,,UMLS:C0085631_agitation
+,,UMLS:C0028084_nightmare
+,,UMLS:C0035508_rhonchus
+,,UMLS:C0239110_consciousness clear
+,,UMLS:C0235231_pin-point pupils
+,,UMLS:C0425251_bedridden^UMLS:C0741453_bedridden
+,,UMLS:C0871754_frail
+,,UMLS:C0234379_tremor resting
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0541992_groggy
+,,UMLS:C0231530_muscle twitch
+,,UMLS:C0558195_wheelchair bound
+,,UMLS:C0040822_tremor
+,,UMLS:C0010200_cough
+,,UMLS:C0015967_fever
+UMLS:C0006840_candidiasis^UMLS:C0006849_oralcandidiasis,99,UMLS:C0011991_diarrhea
+,,UMLS:C0242429_throat sore
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0085593_chill
+,,UMLS:C0018681_headache
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0085636_photophobia
+,,UMLS:C0028081_night sweat
+,,UMLS:C0221150_painful swallowing
+,,UMLS:C0149758_poor dentition
+,,UMLS:C1096646_transaminitis
+,,UMLS:C0850149_non-productive cough
+,,UMLS:C0559546_adverse reaction^UMLS:C0879626_adverse effect
+,,UMLS:C1291077_abdominal bloating
+UMLS:C0442874_neuropathy,99,UMLS:C0004093_asthenia
+,,UMLS:C0028643_numbness
+,,UMLS:C0027498_nausea and vomiting
+,,UMLS:C0541798_awakening early
+,,UMLS:C0020303_hydropneumothorax
+,,UMLS:C0429562_superimposition
+,,UMLS:C0231230_fatigability
+,,UMLS:C0232726_tenesmus
+,,UMLS:C0030193_pain
+,,UMLS:C0232854_slowing of urinary stream
+UMLS:C0022658_kidney disease,96,UMLS:C0392680_shortness of breath
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0008031_pain chest
+,,UMLS:C0015967_fever
+,,UMLS:C0232995_gravida 0
+,,UMLS:C0151706_bleeding of vagina
+UMLS:C0023267_fibroid tumor,96,UMLS:C0233071_para 2
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0156543_abortion
+,,UMLS:C0232943_intermenstrual heavy bleeding
+,,UMLS:C0026827_muscle hypotonia^UMLS:C0241938_hypotonic
+,,UMLS:C0232997_previous pregnancies 2
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0015967_fever
+,,UMLS:C0018834_heartburn
+,,UMLS:C0860096_primigravida
+,,UMLS:C0702118_abnormally hard consistency
+,,UMLS:C1405524_proteinemia
+UMLS:C0017601_glaucoma,95,UMLS:C0085639_fall
+,,UMLS:C0000731_distended abdomen
+,,UMLS:C1273573_unsteady gait
+,,UMLS:C0030554_paresthesia
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0085631_agitation
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0085624_burning sensation
+,,UMLS:C0221198_lesion
+,,UMLS:C0577559_mass of body structure
+UMLS:C0027627_neoplasm metastasis,94,UMLS:C0205400_thicken
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C1513183_metastatic lesion
+,,UMLS:C0007859_pain neck
+,,UMLS:C0034079_lung nodule
+,,UMLS:C0030193_pain
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0149696_food intolerance
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0741302_atypia
+UMLS:C0007102_malignant tumor of colon^UMLS:C0699790_carcinoma colon,94,UMLS:C0221198_lesion
+,,UMLS:C0242453_prostatism
+,,UMLS:C0009806_constipation
+,,UMLS:C0858924_general discomfort
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0152032_urinary hesitation
+,,UMLS:C0857087_dizzy spells
+,,UMLS:C0278146_shooting pain
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0042963_vomiting
+,,UMLS:C0694547_systolic ejection murmur
+,,UMLS:C0027497_nausea
+,,UMLS:C0235250_hyperemesis
+,,UMLS:C0085602_polydypsia
+UMLS:C0011880_ketoacidosis diabetic,93,UMLS:C0032617_polyuria
+,,UMLS:C0042963_vomiting
+,,UMLS:C0027497_nausea
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0443260_milky
+,,UMLS:C0235129_feeling strange
+,,UMLS:C0232517_gurgle
+,,UMLS:C0027769_nervousness
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0232605_regurgitates after swallowing
+,,UMLS:C0344232_vision blurred
+,,UMLS:C0152032_urinary hesitation
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0036572_seizure
+,,UMLS:C0236018_aura
+UMLS:C0014549_tonic-clonic epilepsy^UMLS:C0494475_tonic-clonic seizures,92,UMLS:C0013144_drowsiness
+,,UMLS:C0542073_lip smacking
+,,UMLS:C0027066_myoclonus
+,,UMLS:C0040822_tremor
+,,UMLS:C0751466_phonophobia
+,,UMLS:C0522336_rolling of eyes
+,,UMLS:C0234450_sleepy
+,,UMLS:C0019572_hirsutism
+,,UMLS:C0554980_moody
+,,UMLS:C0231530_muscle twitch
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0018681_headache
+,,UMLS:C0002416_ambidexterity
+,,UMLS:C0424530_absences finding
+,,UMLS:C0037763_spasm
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C1269955_tumor cell invasion
+UMLS:C0006826_malignant neoplasms,90,UMLS:C0232118_pulsus paradoxus
+,,UMLS:C1291692_gravida 10
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0221198_lesion
+,,UMLS:C0018834_heartburn
+,,UMLS:C0028081_night sweat
+,,UMLS:C0205400_thicken
+,,UMLS:C0085593_chill
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0541911_dullness
+,,UMLS:C0149696_food intolerance
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0020649_hypotension
+UMLS:C1145670_respiratory failure,90,UMLS:C0018991_hemiplegia
+,,UMLS:C0037384_snore
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0239134_productive cough
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0020461_hyperkalemia
+,,UMLS:C0086439_hypokinesia
+,,UMLS:C0232201_sinus rhythm
+,,UMLS:C0427108_general unsteadiness
+,,UMLS:C0006318_bruit
+,,UMLS:C0239110_consciousness clear
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0221198_lesion
+,,UMLS:C0332575_redness
+UMLS:C0025202_melanoma,87,UMLS:C0577559_mass of body structure
+,,UMLS:C0221166_paraparesis
+,,UMLS:C0015967_fever
+,,UMLS:C0232995_gravida 0
+,,UMLS:C0030193_pain
+,,UMLS:C0033774_pruritus
+,,UMLS:C0024103_mass in breast
+,,UMLS:C0042963_vomiting
+,,UMLS:C0011991_diarrhea
+UMLS:C0017160_gastroenteritis,87,UMLS:C0000737_pain abdominal
+,,UMLS:C0476287_breath-holding spell
+,,UMLS:C0027497_nausea
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0240962_scleral icterus
+,,UMLS:C0015967_fever
+,,UMLS:C0231528_myalgia
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0232602_retch
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0043096_decreased body weight
+UMLS:C0242379_malignant neoplasm of lung^UMLS:C0684249_carcinoma of lung,86,UMLS:C0221198_lesion
+,,UMLS:C0010200_cough
+,,UMLS:C0034079_lung nodule
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0019079_haemoptysis
+,,UMLS:C0742985_debilitation
+,,UMLS:C0232517_gurgle
+,,UMLS:C0234238_ache
+,,UMLS:C0034642_rale
+,,UMLS:C0028081_night sweat
+,,UMLS:C0029053_decreased translucency
+,,UMLS:C0004093_asthenia
+,,UMLS:C1513183_metastatic lesion
+,,UMLS:C0085631_agitation
+,,UMLS:C0022107_irritable mood
+UMLS:C0024713_manic disorder,85,UMLS:C0455769_energy increased
+,,UMLS:C0438696_suicidal
+,,UMLS:C0917799_hypersomnia
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0948786_blanch
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0233492_elation
+,,UMLS:C0424068_verbal auditory hallucinations
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C1299586_difficulty
+,,UMLS:C0231187_decompensation
+,,UMLS:C0558089_verbally abusive behavior
+,,UMLS:C0438696_suicidal
+,,UMLS:C0424000_feeling suicidal
+UMLS:C0031212_personality disorder,84,UMLS:C0028084_nightmare
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0558141_transsexual
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0085631_agitation
+,,UMLS:C0424109_weepiness
+,,UMLS:C0344315_mood depressed
+,,UMLS:C1384489_scratch marks
+,,UMLS:C0027498_nausea and vomiting
+,,UMLS:C0277794_extreme exhaustion
+,,UMLS:C0748706_side pain
+,,UMLS:C0233481_worry
+,,UMLS:C0014394_enuresis
+,,UMLS:C0237154_homelessness
+,,UMLS:C0027769_nervousness
+,,UMLS:C0003962_ascites
+,,UMLS:C0033774_pruritus
+UMLS:C0019204_primary carcinoma of the liver cells,82,UMLS:C0577559_mass of body structure
+,,UMLS:C0038002_splenomegaly
+,,UMLS:C0221198_lesion
+,,UMLS:C0030552_paresis
+,,UMLS:C1269955_tumor cell invasion
+,,UMLS:C0848277_room spinning
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0205400_thicken
+,,UMLS:C0085632_indifferent mood
+,,UMLS:C0006625_cachexia
+,,"UMLS:C0020672_hypothermia, natural"
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0019209_hepatomegaly
+,,UMLS:C0744727_hematocrit decreased
+,,UMLS:C0085628_stupor
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0010200_cough
+UMLS:C0034067_emphysema pulmonary,80,UMLS:C0474395_behavior showing increased motor activity
+,,UMLS:C0241158_scar tissue
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0520966_coordination abnormal
+,,UMLS:C0231528_myalgia
+,,UMLS:C0020440_hypercapnia
+,,UMLS:C0392162_clammy skin
+,,UMLS:C0557075_has religious belief
+,,UMLS:C0848277_room spinning
+,,UMLS:C0859032_moan
+,,UMLS:C0028081_night sweat
+,,UMLS:C0006625_cachexia
+,,UMLS:C0436331_symptom aggravating factors
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0034642_rale
+,,UMLS:C0016382_flushing
+,,UMLS:C0221150_painful swallowing
+,,UMLS:C0003862_arthralgia
+,,UMLS:C0008301_choke
+,,UMLS:C0232726_tenesmus
+,,UMLS:C0009806_constipation
+UMLS:C0019112_hemorrhoids,80,UMLS:C0019080_haemorrhage
+,,UMLS:C0232695_bowel sounds decreased
+,,UMLS:C0278014_decreased stool caliber
+,,UMLS:C0027498_nausea and vomiting
+,,UMLS:C0020175_hunger
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0012833_dizziness
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0009024_clonus
+,,UMLS:C0030193_pain
+,,UMLS:C1321756_achalasia
+,,UMLS:C0085624_burning sensation
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0239832_numbness of hand
+,,UMLS:C0043144_wheezing
+,,UMLS:C0010200_cough
+UMLS:C0006266_spasm bronchial,76,UMLS:C0392680_shortness of breath
+,,UMLS:C0241158_scar tissue
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0262581_no known drug allergies
+,,UMLS:C0030193_pain
+,,UMLS:C0239134_productive cough
+,,UMLS:C0242429_throat sore
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0232292_chest tightness
+,,UMLS:C0700292_hypoxemia
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0234215_sensory discomfort
+,,UMLS:C0015967_fever
+,,UMLS:C0042963_vomiting
+,,UMLS:C0035508_rhonchus
+,,UMLS:C0018991_hemiplegia
+,,UMLS:C0231890_fremitus
+UMLS:C0003537_aphasia,76,UMLS:C0009024_clonus
+,,UMLS:C0231872_egophony
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0221470_aphagia
+,,UMLS:C0231530_muscle twitch
+,,UMLS:C0522224_paralyse
+,,UMLS:C0024031_low back pain
+,,UMLS:C0277823_charleyhorse
+UMLS:C0028756_obesity morbid,76,UMLS:C0848168_out of breath
+,,UMLS:C0205254_sedentary
+,,UMLS:C0002962_angina pectoris
+,,UMLS:C0010200_cough
+,,UMLS:C0847488_unhappy
+,,UMLS:C0553668_labored breathing
+,,"UMLS:C0020672_hypothermia, natural"
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0744727_hematocrit decreased
+,,UMLS:C0043144_wheezing
+,,UMLS:C0700292_hypoxemia
+,,UMLS:C0235634_renal angle tenderness
+,,UMLS:C0424749_feels hot/feverish
+UMLS:C0034186_pyelonephritis,74,UMLS:C0015967_fever
+,,UMLS:C0030193_pain
+,,UMLS:C0085606_urgency of micturition
+,,UMLS:C0018965_hematuria
+,,UMLS:C0042963_vomiting
+,,UMLS:C0085593_chill
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0027497_nausea
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0231528_myalgia
+,,UMLS:C0015967_fever
+,,UMLS:C0085593_chill
+UMLS:C0014118_endocarditis,71,UMLS:C0008033_pleuritic pain
+,,UMLS:C0205400_thicken
+,,UMLS:C0231528_myalgia
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0028081_night sweat
+,,UMLS:C1517205_flare
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0085619_orthopnea
+,,UMLS:C0549483_abscess bacterial
+,,UMLS:C0020649_hypotension
+,,UMLS:C0010200_cough
+,,UMLS:C1513183_metastatic lesion
+,,UMLS:C0238844_breath sounds decreased
+,,UMLS:C0043096_decreased body weight
+,,
+,,UMLS:C0232118_pulsus paradoxus
+,,UMLS:C0086439_hypokinesia
+UMLS:C0031039_effusion pericardial^UMLS:C1253937_pericardial effusion body substance,71,UMLS:C0232267_pericardial friction rub
+,,UMLS:C0013404_dyspnea
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0018800_cardiomegaly
+,,UMLS:C0020649_hypotension
+,,UMLS:C0241235_sputum purulent
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0030193_pain
+,,UMLS:C0028961_oliguria
+,,UMLS:C0312422_blackout
+,,UMLS:C0728899_intoxication
+UMLS:C0001973_chronic alcoholic intoxication,70,UMLS:C0040822_tremor
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0438696_suicidal
+,,UMLS:C0424337_hoard
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0233647_neologism
+,,UMLS:C0036572_seizure
+,,UMLS:C0237154_homelessness
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0041657_unconscious state
+,,UMLS:C0030318_panic
+,,UMLS:C0238844_breath sounds decreased
+,,UMLS:C0392680_shortness of breath
+UMLS:C0032326_pneumothorax,68,UMLS:C0013404_dyspnea
+,,UMLS:C0425560_cardiovascular finding^UMLS:C1320716_cardiovascular event
+,,UMLS:C0019079_haemoptysis
+,,UMLS:C0010200_cough
+,,UMLS:C0020440_hypercapnia
+,,UMLS:C0037580_soft tissue swelling
+,,UMLS:C0242453_prostatism
+,,UMLS:C0085631_agitation
+UMLS:C0011206_delirium,68,UMLS:C1273573_unsteady gait
+,,UMLS:C0424092_withdraw
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0558089_verbally abusive behavior
+,,UMLS:C0424000_feeling suicidal
+,,UMLS:C0241526_unresponsiveness
+,,UMLS:C0233481_worry
+,,UMLS:C0013144_drowsiness^UMLS:C0234450_sleepy
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0438696_suicidal
+,,UMLS:C0015967_fever
+,,UMLS:C0011991_diarrhea
+UMLS:C0027947_neutropenia,68,UMLS:C1096646_transaminitis
+,,UMLS:C0038002_splenomegaly
+,,UMLS:C0028081_night sweat
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0221198_lesion
+,,UMLS:C1260880_snuffle
+,,UMLS:C0085593_chill
+,,UMLS:C0010200_cough
+,,UMLS:C0746619_monoclonal
+,,UMLS:C0020598_hypocalcemia result
+,,UMLS:C0028961_oliguria
+,,UMLS:C0427629_rhd positive
+,,UMLS:C0476273_distress respiratory
+UMLS:C0020433_hyperbilirubinemia,68,UMLS:C0010520_cyanosis
+,,UMLS:C0231835_tachypnea
+,,UMLS:C0233070_para 1
+,,UMLS:C0428977_bradycardia
+,,UMLS:C0006157_breech presentation
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0010200_cough
+,,UMLS:C0231528_myalgia
+UMLS:C0021400_influenza,68,UMLS:C0242143_uncoordination
+,,UMLS:C0015967_fever
+,,UMLS:C0008033_pleuritic pain
+,,UMLS:C1260880_snuffle
+,,UMLS:C0242429_throat sore
+,,UMLS:C0231218_malaise
+,,UMLS:C0742985_debilitation
+,,UMLS:C0436331_symptom aggravating factors
+,,UMLS:C0085593_chill
+,,UMLS:C0240962_scleral icterus
+,,UMLS:C0277873_nasal flaring
+,,UMLS:C0013428_dysuria
+,,UMLS:C0542073_lip smacking
+,,UMLS:C0018681_headache
+,,UMLS:C0037383_sneeze
+,,UMLS:C0037384_snore
+,,UMLS:C0457097_green sputum
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0476273_distress respiratory
+,,UMLS:C0312422_blackout
+,,UMLS:C0277794_extreme exhaustion
+UMLS:C0439857_dependence,67,UMLS:C0728899_intoxication
+,,UMLS:C0040822_tremor
+,,UMLS:C0085631_agitation
+,,UMLS:C0438696_suicidal
+,,UMLS:C0237154_homelessness
+,,UMLS:C0242453_prostatism
+,,UMLS:C0023380_lethargy
+,,UMLS:C0036572_seizure
+,,UMLS:C0231530_muscle twitch
+,,UMLS:C0848340_stuffy nose
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0581911_heavy legs
+,,UMLS:C0034642_rale
+UMLS:C0087086_thrombus,67,UMLS:C0086439_hypokinesia
+,,UMLS:C0003123_anorexia
+,,UMLS:C0235396_hypertonicity
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0239981_hypoalbuminemia
+,,UMLS:C0033774_pruritus
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0578150_hemodynamically stable
+,,UMLS:C0427055_facial paresis
+,,UMLS:C0042963_vomiting
+,,UMLS:C0241252_stool color yellow
+UMLS:C0008325_cholecystitis,66,UMLS:C0859032_moan
+,,UMLS:C0027497_nausea
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0277977_Murphy's sign
+,,UMLS:C0016204_flatulence
+,,UMLS:C0232488_colic abdominal
+,,UMLS:C0030193_pain
+,,UMLS:C0003962_ascites
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0151878_qt interval prolonged
+,,UMLS:C0425560_cardiovascular finding^UMLS:C1320716_cardiovascular event
+,,UMLS:C0541992_groggy
+,,UMLS:C0232201_sinus rhythm
+,,UMLS:C0425449_gasping for breath
+,,UMLS:C0009806_constipation
+,,UMLS:C0474505_feces in rectum
+,,UMLS:C0702118_abnormally hard consistency
+UMLS:C0019291_hernia hiatal,61,UMLS:C0000737_pain abdominal
+,,UMLS:C0231230_fatigability
+,,UMLS:C0240805_prodrome
+,,UMLS:C0042963_vomiting
+,,UMLS:C0027497_nausea
+,,UMLS:C0231528_myalgia
+,,UMLS:C0020625_hyponatremia
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0858924_general discomfort
+,,UMLS:C0231807_dyspnea on exertion
+,,UMLS:C0232766_asterixis
+,,UMLS:C0744492_guaiac positive
+,,UMLS:C0239832_numbness of hand
+,,UMLS:C0018681_headache
+,,UMLS:C0085636_photophobia
+UMLS:C0149931_migraine disorders,61,UMLS:C0002416_ambidexterity
+,,UMLS:C0042963_vomiting
+,,UMLS:C0012833_dizziness
+,,UMLS:C0028643_numbness
+,,UMLS:C0027497_nausea
+,,UMLS:C0015967_fever
+,,UMLS:C0038002_splenomegaly
+UMLS:C0030312_pancytopenia,61,UMLS:C0020639_hypoproteinemia
+,,UMLS:C0015672_fatigue
+,,UMLS:C0019080_haemorrhage
+,,UMLS:C0231230_fatigability
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0241252_stool color yellow
+,,UMLS:C0232488_colic abdominal
+UMLS:C0008350_cholelithiasis^UMLS:C0242216_biliary calculus,61,UMLS:C0042963_vomiting
+,,UMLS:C0027497_nausea
+,,UMLS:C0000737_pain abdominal
+,,UMLS:C0030193_pain
+,,UMLS:C0332601_cushingoid facies^UMLS:C0878661_cushingoid habitus
+,,UMLS:C0003962_ascites
+,,UMLS:C0205400_thicken
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0030252_palpitation
+UMLS:C0039239_tachycardia sinus,56,UMLS:C0238705_left atrial hypertrophy
+,,UMLS:C0038990_sweat^UMLS:C0700590_sweating increased
+,,UMLS:C0556346_alcohol binge episode
+,,UMLS:C0438716_pressure chest
+,,UMLS:C0241158_scar tissue
+,,UMLS:C0425560_cardiovascular finding^UMLS:C1320716_cardiovascular event
+,,UMLS:C0149746_orthostasis
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0520888_t wave inverted
+,,UMLS:C0042963_vomiting
+,,UMLS:C0000737_pain abdominal
+UMLS:C1258215_ileus,56,UMLS:C0549483_abscess bacterial
+,,UMLS:C0000727_abdomen acute
+,,UMLS:C0740844_air fluid level
+,,UMLS:C0425491_catching breath
+,,UMLS:C0232498_abdominal tenderness
+,,UMLS:C0027497_nausea
+,,UMLS:C0234233_sore to touch
+,,UMLS:C0016204_flatulence
+,,UMLS:C0011991_diarrhea
+,,UMLS:C0577559_mass of body structure
+,,UMLS:C0277797_apyrexial
+,,UMLS:C0009806_constipation
+,,UMLS:C0205400_thicken
+,,UMLS:C0232995_gravida 0
+,,UMLS:C0000737_pain abdominal
+UMLS:C0001511_adhesion,57,UMLS:C0016204_flatulence
+,,UMLS:C0030193_pain
+,,UMLS:C0456091_large-for-dates fetus
+,,UMLS:C0233070_para 1
+,,UMLS:C0042963_vomiting
+,,UMLS:C0034079_lung nodule
+,,UMLS:C0006157_breech presentation
+,,UMLS:C0392680_shortness of breath
+,,UMLS:C0043096_decreased body weight
+,,UMLS:C0231441_immobile
+,,UMLS:C1273573_unsteady gait
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0424000_feeling suicidal
+UMLS:C0011253_delusion,56,UMLS:C0240233_loose associations
+,,UMLS:C0392701_giddy mood
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0085631_agitation
+,,UMLS:C0233762_hallucinations auditory
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0233647_neologism
+,,UMLS:C0455204_homicidal thoughts
+,,UMLS:C0578859_disturbed family
+,,UMLS:C0233481_worry
+,,UMLS:C0231187_decompensation
+,,UMLS:C0558089_verbally abusive behavior
+,,UMLS:C0007398_catatonia
+,,UMLS:C0438696_suicidal
+,,UMLS:C0558261_terrify
+,,UMLS:C0312422_blackout
+,,UMLS:C0424109_weepiness
+,,UMLS:C0338656_impaired cognition
+,,UMLS:C0022107_irritable mood
+,,UMLS:C0085631_agitation
+UMLS:C0233472_affect labile,45,UMLS:C0277794_extreme exhaustion
+,,UMLS:C0917801_sleeplessness
+,,UMLS:C0014394_enuresis
+,,UMLS:C0376405_patient non compliance
+,,UMLS:C0150041_feeling hopeless
+,,UMLS:C0233763_hallucinations visual
+,,UMLS:C0425251_bedridden^UMLS:C0741453_bedridden
+,,UMLS:C0242453_prostatism
+UMLS:C0011127_decubitus ulcer,42,UMLS:C0232257_systolic murmur
+,,UMLS:C0871754_frail
+,,UMLS:C0015967_fever
+,,
