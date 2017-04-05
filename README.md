@@ -16,6 +16,6 @@ Head over to [Data-Analyis.ipynb](https://github.com/Aniruddha-Tapas/Predicting-
 #### To Do:
 
 - [ ] Create a web service in Flask for disease predictions using the trained model.
-- [ ] Perform Affinity Analyis to analyse which symptoms usually occur together.
+- [ ] Perform Affinity Analyis to observe which symptoms usually occur together.
 
 <hr>
